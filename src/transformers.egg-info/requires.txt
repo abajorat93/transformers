@@ -1,4 +1,4 @@
-pandas==1.4.1
+pandas
 scikit-learn
 typing
 typing
