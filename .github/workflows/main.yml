@@ -37,7 +37,6 @@ jobs:
     #     path: src/htmlcov
     - name: Run package creation
       run: |
-        cd src
         python -m pip install --user --upgrade build
         python -m build
     - name: Archive package
