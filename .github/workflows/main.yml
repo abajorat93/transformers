@@ -1,13 +1,13 @@
-# GitHub CI build pipeline
-# name: Transformer CI build
-# on:
-#   push:
-#     branches:
-#       - main
-#   pull_request:
-#     branches:
-#       - main
-# jobs:
+GitHub CI build pipeline
+name: Transformer CI build
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+jobs:
   build:
     runs-on: ubuntu-latest
     steps:
