@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: transformers
+Version: 0.1.0
+Summary: Defines some custom sklearn transformer
+Author: Andre Bajorat
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Programming Language :: Python :: 3

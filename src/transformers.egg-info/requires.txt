@@ -1,0 +1,5 @@
+pandas==1.4.1
+scikit-learn
+typing
+typing
+numpy
